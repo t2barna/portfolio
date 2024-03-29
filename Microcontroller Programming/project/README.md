@@ -1,2 +1,2 @@
-#overview
+# overview
 The task was to connect and read card data from an RFID card reader. We had to design a PCB with the PIC24FJ256GB108 microcontroller and write a program in C that would work on this PCB, we used MPLAB X ide to load the program to the panel. The wfDemo is a windows aplication to connect the device to a pc and log the keycard numbers to a file.
