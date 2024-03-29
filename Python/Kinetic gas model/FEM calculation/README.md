@@ -1,0 +1,2 @@
+#Finite Element Method calculation
+We had a homework to calculate a simple planar truss structure with FEM, and I wrote a program that calculates the nodal forces and displacements for any given structure. We had to use simple compressed - tensioned truss elements with two nodes.
