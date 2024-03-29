@@ -1,0 +1,20 @@
+C:\Users\Student\MPLABXProjects\L06\wfDemo\x64\Debug\wfDemo.vcxproj.AssemblyReference.cache
+C:\Users\Student\MPLABXProjects\L06\wfDemo\x64\Debug\wfDemo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Student\MPLABXProjects\L06\wfDemo\x64\Debug\wfDemo.Form1.resources
+C:\Users\Student\MPLABXProjects\L06\wfDemo\x64\Debug\wfDemo.vcxproj.GenerateResource.cache
+C:\Users\Student\MPLABXProjects\L06\wfDemo\x64\Debug\wfDemo.exe
+C:\Users\vtoth\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.vcxproj.AssemblyReference.cache
+C:\Users\vtoth\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\vtoth\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.Form1.resources
+C:\Users\vtoth\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.vcxproj.GenerateResource.cache
+C:\Users\vtoth\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.exe
+C:\Users\ZenBook\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.vcxproj.AssemblyReference.cache
+C:\Users\ZenBook\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\ZenBook\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.Form1.resources
+C:\Users\ZenBook\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.vcxproj.GenerateResource.cache
+C:\Users\ZenBook\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\5_felev\uVez\projekt\wfDemo\x64\Debug\wfDemo.exe
+C:\Users\Student\Desktop\wfDemo\x64\Debug\wfDemo.vcxproj.AssemblyReference.cache
+C:\Users\Student\Desktop\wfDemo\x64\Debug\wfDemo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\wfDemo\x64\Debug\wfDemo.Form1.resources
+C:\Users\Student\Desktop\wfDemo\x64\Debug\wfDemo.vcxproj.GenerateResource.cache
+C:\Users\Student\Desktop\wfDemo\x64\Debug\wfDemo.exe

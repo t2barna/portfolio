@@ -1,0 +1,7 @@
+﻿  Form1.cpp
+C:\Users\Student\Desktop\wfDemo\Form1.h(164,20): warning C4101: 'ex': unreferenced local variable
+  WindowsForm.cpp
+C:\Users\Student\Desktop\wfDemo\Form1.h(164,20): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  wfDemo.vcxproj -> C:\Users\Student\Desktop\wfDemo\x64\Debug\wfDemo.exe
