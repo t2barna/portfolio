@@ -1,0 +1,2 @@
+#Circuit  design project
+This design features a reflective optical sensor, the analog signal is digitalized to I<sup>2</sup>C and that to USB, both are connected to output pins. The panel also has a LED indicator showing the data between the minimum and maximum of the useful range of the optical sensor.
